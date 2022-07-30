@@ -1,6 +1,6 @@
 # FizzBuzz
 
-Projeto realizado para praticar conceitos da linguagem de programação funcional Elixir.
+Projeto realizado em curso do Rafael Camarda para praticar conceitos da linguagem de programação funcional Elixir.
 
 > FizzBuzz é um jogo de palavras em grupo para crianças aprenderem sobre divisão.  
 > Os jogadores se juntam em uma roda para contar os números, um de cada vez.  
