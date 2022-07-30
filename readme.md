@@ -16,7 +16,6 @@ Projeto realizado para praticar conceitos da linguagem de programação funciona
 - Você pode fazer o clone desse repositório se quiser rodá-lo no seu terminal. 
   - Instale o [Elixir na sua máquina](https://elixir-lang.org/install.html)
   - Clone esse projeto com o `git clone` 
-  - Dentro da pasta do projeto e no seu terminal, rode o comando `mix compile`.
   - Inicie o terminal interativo do Elixir com o comando `iex -S mix`.
   - Rode: `FizzBuzz.build("numbers.txt")` para ver o resultado final.
   - Rode: `FizzBuzz.build("arquivo-nao-existe.txt")` para ver a mensagem de erro.
@@ -31,5 +30,5 @@ Projeto realizado para praticar conceitos da linguagem de programação funciona
 <img src="./assets/img2.png"> 
 - Converter o arquivo que está como string para lista de números.
 <img src="./assets/img3.png"> 
-- Substituir os números múltiplos de 3 por :fizz, múltiplos de 5 por :bizz, múltiplos de 3 e 5 por :fizzbuzz.
+- Substituir os números múltiplos de 3 por :fizz, múltiplos de 5 por :buzz, múltiplos de 3 e 5 por :fizzbuzz.
 <img src="./assets/img4.png">
